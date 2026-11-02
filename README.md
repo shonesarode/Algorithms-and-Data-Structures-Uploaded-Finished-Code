@@ -34,4 +34,4 @@ Requires CMake 3.16+ and C++17. The header implementations are in `include/algor
 
 Potential extensions: randomized differential tests, minimum spanning trees, and dynamic programming exercises.
 
-MIT licensed. Do not submit generated code for coursework where assistance is prohibited.
+MIT licensed.
