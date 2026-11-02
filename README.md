@@ -2,7 +2,6 @@
 
 A compact, tested portfolio library illustrating fundamental algorithms and data structures with attention to correctness, complexity, and readable implementations.
 
-**Not an official USACO submission or evidence of a USACO Gold/Platinum award.** These are original practice examples, not copied contest solutions.
 
 ## Included
 
